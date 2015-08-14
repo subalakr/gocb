@@ -1,0 +1,7 @@
+{
+    "ConnStr": "couchbase://127.0.0.1",
+    "DefaultBucket" : "default",
+    "SASLBucket" : "protected",
+    "SASLPasswd" : "secret"
+}
+
